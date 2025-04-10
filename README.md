@@ -10,7 +10,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone <URL_вашего_репозитория>
+    git clone https://github.com/DorTor1/pks-2
     cd NetworkAnalyzer
     ```
 2.  Соберите проект:
